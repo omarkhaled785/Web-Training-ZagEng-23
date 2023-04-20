@@ -1,0 +1,8 @@
+div{
+    font-size: 80px;
+    color: black;
+    text-shadow: 2px 2px 1px red,4px 4px 1px blue, 6px 6px 1px blueviolet;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+}

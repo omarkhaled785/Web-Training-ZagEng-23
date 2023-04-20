@@ -1,0 +1,12 @@
+a{
+    padding: 20px;
+    width: fit-content;
+    background-color: #23cc9f;
+    color: white;
+    font-size: 40px;
+    text-decoration: none;
+    border-bottom: 10px solid #024e35;
+    margin: 15px auto;
+    text-transform: capitalize;
+    display: block;    
+}

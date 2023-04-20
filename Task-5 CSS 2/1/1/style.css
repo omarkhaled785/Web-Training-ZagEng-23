@@ -1,0 +1,13 @@
+.parent, .title{
+    font-size: 40px;
+    text-align: center;
+}
+.parent .child .title{
+    color: red;
+}
+.parent .title{
+    color: blue;
+}
+.parent p, .title{
+    color: green;
+}
