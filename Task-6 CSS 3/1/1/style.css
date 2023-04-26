@@ -1,0 +1,31 @@
+.parent{
+    width: 1000px;
+    background-color: #eeeeee;
+}
+.parent div{
+    text-align: center;
+    color: black;
+    padding : 15px 0;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 15px;
+    float: left;
+}
+.s,.t,.f,.full{
+    background-color: #dddddd;
+}
+.full{
+    width: calc(100% - 30px);
+}
+.s{
+    width: calc((100% - 60px) / 3);
+}
+.t{
+    width: calc((100% - 45px) / 2);
+}
+.f{
+    width: calc((100% - 75px) / 4);
+}
+.clear{
+    clear: both;
+}
